@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### What I do 
 I build interactive experiences as a web developer. As a web developer, I don't just code, I create.  I leverage my programming skills to bring innovative ideas to life.  Full-stack development allows me to be involved in every aspect of the application, from the initial design concepts to the final implementation. I take immense satisfaction in tackling complex problems and bringing them to life through the power of code.
 
