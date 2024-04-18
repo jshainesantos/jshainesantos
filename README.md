@@ -1,6 +1,7 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 ![Header](./github-header-image.png)
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jshainesantos/)](https://www.linkedin.com/in/jshainesantos/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-jshainesantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jshainesantos/)](https://www.linkedin.com/in/jshainesantos/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicashainesantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicashainesantos@gmail.com)](mailto:jessicashainesantos@gmail.com)
 
 ### What I do 🤔
