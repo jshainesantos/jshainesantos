@@ -1,4 +1,3 @@
-# Hi everyone :wave:
 ![Header](./github-header-image.png)
 
 More stuff about me
