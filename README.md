@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessicashainesantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicashainesantos@gmail.com)](mailto:jessicashainesantos@gmail.com)
 
 ### About Me 🤔
-I am Shaine. Problem solver by day, bookworm and poet by night. Also enjoys rocking the guitar and cuddling cats.
+Problem solver by day, bookworm and poet by night. Also enjoys rocking the guitar and cuddling cats.
 
 ### Technologies 👩‍💻
 
