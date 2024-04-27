@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessicashainesantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicashainesantos@gmail.com)](mailto:jessicashainesantos@gmail.com)
 
 ### About Me 🤔
-I am Shaine and I build interactive experiences. As a web developer, I don't just code, I create.  I leverage my programming skills to bring innovative ideas to life.  Full-stack development allows me to be involved in every aspect of the application, from the initial design concepts to the final implementation. I take immense satisfaction in tackling complex problems and bringing them to life through the power of code.
+I am Shaine. Problem solver by day, bookworm and poet by night. Also enjoys rocking the guitar and cuddling cats.
 
 ### Technologies 👩‍💻
 
