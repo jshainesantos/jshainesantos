@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessicashainesantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessicashainesantos@gmail.com)](mailto:jessicashainesantos@gmail.com)
 
 ### More Stuff About Me 🤔
-I'm Jessica Shaine Santos, and I love building stuff on the internet. When there's a problem to solve, I'm your go-to person—I enjoy figuring things out. But when I'm not coding, you'll probably catch me with my nose buried in a book. I also like to write poems sometimes, and playing guitar is my jam. Oh, and cats? I'm crazy about them! 🐈 Hanging out with those fluffy creatures is one of my favorite things to do! 😏
+I'm Jessica Shaine Santos, and I love building stuff on the internet. When there's a problem to solve, I'm your go-to person—I enjoy figuring things out. But when I'm not coding, you'll probably catch me with my nose buried in a book. I also like to write poems sometimes, and playing guitar is my jam. :)
 
 ### Technologies 👩‍💻
 
